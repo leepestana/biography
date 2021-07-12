@@ -1,7 +1,7 @@
-# Olá, esta é minha biografia
-Coordenador de Design e Desenvolvimento com 12 anos de experiência atuando com Marketing Digital em projetos Web. Formado em Design Digital (2011) com MBA em Digital Data Marketing (2021).
+# Hello Word! esta é minha biografia
+Coordenador de Design e Desenvolvimento com 12 anos de experiência atuando com Marketing Digital em projetos Web. Formado em Design Digital (2011) com MBA em [Digital Data Marketing](https://www.fiap.com.br/mba/mba-em-digital-data-marketing/) (2021).
 
-Atualmente lidero um time com designers, desenvolvedores e analistas de SEO. Com foco em performance e experiência do usuário, administro um portfólio com mais de 40 projetos e participo ativamente da estratégia digital de grandes marcas da indústria farmacêutica fazendo a integração com áreas parceiras de Mídia, BI e Social.
+Atualmente lidero um time com designers, desenvolvedores e analistas de SEO na [Hypera Pharma SA](https://www.hyperapharma.com.br). Com foco em performance e experiência do usuário, administro um portfólio com mais de 40 projetos e participo ativamente da estratégia digital de grandes marcas da indústria farmacêutica fazendo a integração com áreas parceiras de Mídia, BI e Social.
 
 ## Posso separar minha trajetória profissional em quatro partes:
 
