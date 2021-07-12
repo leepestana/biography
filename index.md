@@ -16,32 +16,3 @@ Nos últimos anos passei a liderar um time multidisciplinar e a administrar deze
 
 ### 04 - Data Marketing
 Com os desafios atuais e futuros do marketing digital, venho me dedicando a ferramentas anlyticas e a processos orientados a dados. Automação com CRM, Monitoramento com Semrush, Google Analytics e Tag Manager, Teste AB com Optimaze, consolidação e acompanhamento de métricas com Data Studo e Power BI.
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leepestana/biography/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
